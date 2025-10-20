@@ -1,2 +1,38 @@
 [
+  {
+    "name": "Harry Potter",
+    "house": "Gryffindor",
+    "specialty": "Defense Against the Dark Arts",
+    "image": "images/harry.jpg"
+  },
+  {
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "specialty": "Charms & Ancient Runes",
+    "image": "images/hermione.jpg"
+  },
+  {
+    "name": "Ron Weasley",
+    "house": "Gryffindor",
+    "specialty": "Wizard's Chess",
+    "image": "images/ron.jpg"
+  },
+  {
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "specialty": "Creature Spotting",
+    "image": "images/luna.jpg"
+  },
+  {
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "specialty": "Potions",
+    "image": "images/draco.jpg"
+  },
+  {
+    "name": "Severus Snape",
+    "house": "Slytherin",
+    "specialty": "Potions Master & Spy",
+    "image": "images/snape.jpg"
+  }
 ]
